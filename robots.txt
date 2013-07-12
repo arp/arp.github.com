@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://arp.github.com/sitemap.xml 
+Sitemap: http://arp.github.io/sitemap.xml 

@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://arp.github.com/blog/archives/</loc>
-        <lastmod>2013-02-10T19:16:58+02:00</lastmod>
+        <loc>http://arp.github.io/blog/archives/</loc>
+        <lastmod>2013-07-13T02:57:25+03:00</lastmod>
     </url>
     <url>
-        <loc>http://arp.github.com/</loc>
-        <lastmod>2013-02-10T19:16:58+02:00</lastmod>
+        <loc>http://arp.github.io/</loc>
+        <lastmod>2013-07-13T02:57:25+03:00</lastmod>
     </url>
     <url>
-        <loc>http://arp.github.com/robots.txt</loc>
-        <lastmod>2013-02-10T19:16:58+02:00</lastmod>
+        <loc>http://arp.github.io/robots.txt</loc>
+        <lastmod>2013-07-13T02:57:25+03:00</lastmod>
     </url>
 </urlset>
